@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey there! 👋 I'm Panos Kininis
 
-<!--
-**PKininis/PKininis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data & ML Engineer | Backend Developer | Software Developer**  
+🎓 **Physics (NKUA) | MSc in Data Science & Machine Learning (NTUA)**  
 
-Here are some ideas to get you started:
+💡 **I love**:  
+✔️ Building **machine learning models**, **data pipelines** & **scalable backend systems**  
+✔️ Working with **Python, SQL, Azure, and backend systems**  
+✔️ Exploring **AI applications in real-world problems**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Currently @ SeaQuest Marine Technologies**  
+🌱 **Always learning & experimenting with new technologies**  
+
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/panagiotis-kininis-616567217/)
