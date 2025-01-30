@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Panos Kininis
 
-🚀 **Data & ML Engineer | Backend Developer | Software Developer**  
+🚀 **Data & ML Engineer | Software Developer**  
 🎓 **Physics (NKUA) | MSc in Data Science & Machine Learning (NTUA)**  
 
 💡 **I love**:  
